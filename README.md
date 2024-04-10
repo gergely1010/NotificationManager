@@ -1,0 +1,3 @@
+- 1 Két különböző gomb készítése a notifications küldésre // Gerzsnon01
+- Egy üzenet fogadás oldal (server vagy boardcast) // Gerzsnon02
+- Üzenet viszgálás oldal // Gerzsnon03
